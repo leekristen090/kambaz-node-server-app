@@ -1,0 +1,28 @@
+{
+  "name": "kambaz-node-server-app",
+  "version": "1.0.0",
+  "description": "Node.js HTTP Web server for the Kambaz application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leekristen090/kambaz-node-server-app.git"
+  },
+  "keywords": [
+    "Node",
+    "REST",
+    "Server",
+    "HTTP",
+    "Web",
+    "Development",
+    "CS5610"
+  ],
+  "author": "Kristen Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leekristen090/kambaz-node-server-app/issues"
+  },
+  "homepage": "https://github.com/leekristen090/kambaz-node-server-app#readme"
+}
